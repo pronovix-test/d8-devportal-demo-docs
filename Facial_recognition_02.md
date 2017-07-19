@@ -28,7 +28,8 @@ A newly emerging trend, claimed to achieve improved accuracy, is three-dimension
 **This technique uses 3D sensors to capture information about the shape of a face.**
 This information is then used to identify distinctive features on the surface of a face, such as the contour of the eye sockets, nose, and chin.
 
-<img alt="Biometric facial recognition" src="./assets/pictures/02_biometric.jpg"width="800">
+![Biometric facial recognition](/assets/pictures/02_biometric.jpg)
+
 *Biometric facial recognition*
 
 One advantage of 3D face recognition is that it is not affected by changes in lighting like other techniques.
