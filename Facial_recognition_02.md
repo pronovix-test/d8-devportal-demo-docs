@@ -37,10 +37,10 @@ It can also identify a face from a range of viewing angles, including a profile 
 Three-dimensional data points from a face vastly improve the precision of face recognition.
 3D research is enhanced by the development of sophisticated sensors that do a better job of capturing 3D face imagery.
 The sensors work by projecting structured light onto the face.
-Up to a dozen or more of these image sensors can be placed on the same CMOS chip—each sensor captures a different part of the spectrum.
+Up to a dozen or more of these image sensors can be placed on the same CMOS chip, each sensor captures a different part of the spectrum.
 
 Even a perfect 3D matching technique could be sensitive to expressions.
 For that goal Teal Robotics applied tools from metric geometry to treat expressions as isometries.
 
 A new method is to introduce a way to capture a 3D picture by using three tracking cameras that point at different angles; one camera will be pointing at the front of the subject, second one to the side, and third one at an angle.
-All these cameras will work together so it can track a subject’s face in real time and be able to face detect and recognize.
+All these cameras will work together so it can track a subject's face in real time and be able to face detect and recognize.
