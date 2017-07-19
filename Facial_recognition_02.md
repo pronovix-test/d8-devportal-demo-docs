@@ -14,9 +14,10 @@ A probe image is then compared with the face data.
 One of the earliest successful systems is based on template matching techniques applied to a set of salient facial features, providing a sort of compressed face representation.
 
 Recognition algorithms can be divided into two main approaches:
-0. **geometric**, which looks at distinguishing features, and
 
-0. **photometric**, which is a statistical approach that distills an image into values and compares the values with templates to eliminate variances.
+1. **geometric**, which looks at distinguishing features, and
+
+2. **photometric**, which is a statistical approach that distills an image into values and compares the values with templates to eliminate variances.
 
 Popular recognition algorithms include principal component analysis using eigenfaces, linear discriminant analysis, elastic bunch graph matching using the Fisherface algorithm, the hidden Markov model, the multilinear subspace learning using tensor representation, and the neuronal motivated dynamic link matching.
 
