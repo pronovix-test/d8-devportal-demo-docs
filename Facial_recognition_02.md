@@ -5,7 +5,8 @@
 Face recognition algorithms identify facial features by extracting landmarks, or features, from an image of the subject's face.
 For example, an algorithm may analyze the relative position, size, and/or shape of the eyes, nose, cheekbones, and jaw.
 
-<img alt="Facial recognition markers" src="./assets/pictures/01_markers.jpg"width="800">
+![Facial recognition markers](/assets/pictures/01_markers.jpg)
+
 *Facial recognition markers*
 
 These features are then used to search for other images with matching features.
