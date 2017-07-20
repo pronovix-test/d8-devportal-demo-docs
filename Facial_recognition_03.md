@@ -14,3 +14,5 @@ The research uses low-sensitive, low-resolution ferro-electric electrics sensors
 The results show that a fusion of LWIR and regular visual cameras has the greater results in outdoor probes.
 Indoor results show that visual has a 97.05% accuracy, while LWIR has 93.93%, and the Fusion has 98.40%, however on the outdoor proves visual has 67.06%, LWIR 83.03%, and fusion has 89.02%.
 The study used 240 subjects over the period of 10 weeks to create the new database. The data was collected on sunny, rainy, and cloudy days.
+
+(Source: [Wikipedia](https://en.wikipedia.org/wiki/Facial_recognition_system))
