@@ -5,7 +5,7 @@
 Face recognition algorithms identify facial features by extracting landmarks, or features, from an image of the subject's face.
 For example, an algorithm may analyze the relative position, size, and/or shape of the eyes, nose, cheekbones, and jaw.
 
-![Facial recognition markers](/assets/pictures/01_markers.jpg)
+![Facial recognition markers (picture: Extreme Tech)](/assets/pictures/01_markers.jpg)
 
 *Facial recognition markers*
 
@@ -28,7 +28,7 @@ A newly emerging trend, claimed to achieve improved accuracy, is three-dimension
 **This technique uses 3D sensors to capture information about the shape of a face.**
 This information is then used to identify distinctive features on the surface of a face, such as the contour of the eye sockets, nose, and chin.
 
-![Biometric facial recognition](/assets/pictures/02_biometric.jpg)
+![Biometric facial recognition (picture: Quora)](/assets/pictures/02_biometric.jpg)
 
 *Biometric facial recognition*
 
@@ -44,3 +44,6 @@ For that goal Teal Robotics applied tools from metric geometry to treat expressi
 
 A new method is to introduce a way to capture a 3D picture by using three tracking cameras that point at different angles; one camera will be pointing at the front of the subject, second one to the side, and third one at an angle.
 All these cameras will work together so it can track a subject's face in real time and be able to face detect and recognize.
+
+
+(Source: [Wikipedia](https://en.wikipedia.org/wiki/Facial_recognition_system), [Extreme Tech](https://www.extremetech.com/extreme/178777-facebooks-facial-recognition-software-is-now-as-accurate-as-the-human-brain-but-what-now) - 1st picture, [Quora](https://www.quora.com/How-does-the-facial-recognition-technology-work) - 2nd picture)
