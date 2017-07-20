@@ -45,3 +45,5 @@ The score if passing a certain threshold is an indication of a recognition.
 This is a fast operation, and depending on the size of the representation - recognition systems can obtain scores for millions of candidates per second.
 
 (Source: [Wikipedia](https://en.wikipedia.org/wiki/Facial_recognition_system), [Quora](https://www.quora.com/How-does-the-facial-recognition-technology-work))
+
+adding an extra paragraph
